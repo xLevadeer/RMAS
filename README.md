@@ -1,4 +1,4 @@
-# Restrictive Measures Algorithmic Solution
+# RMAS - Restrictive Measures Algorithmic Solution
 a C# console app game to play with a partner
 
 The RMAS is a C# ConsoleApp game for caging a partner. There is no explicit imagery or content aside from text stating names of things like "user caged" or "phallic photos count". 
