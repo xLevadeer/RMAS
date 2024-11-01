@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1.csproj", "{B9B0549F-1BAC-4468-B5A9-A6F926537908}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RMAS", "RMAS.csproj", "{B9B0549F-1BAC-4468-B5A9-A6F926537908}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
