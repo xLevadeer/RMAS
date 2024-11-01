@@ -3,6 +3,13 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
+# Custom files to ignore
+UML.png
+UML.drawio
+.VSCodeCounter/
+.vscode/
+.vs/
+
 # User-specific files
 *.rsuser
 *.suo
